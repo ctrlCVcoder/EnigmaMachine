@@ -5,11 +5,11 @@ Module Module1
         Dim index As Integer
         Dim Operation As String
         'Operation = Console.ReadLine()
-        Operation = "DECODE"
+        Operation = "ENCODE"
 
         Dim pseudoRandomNumber As Integer
         'pseudoRandomNumber = Console.ReadLine()
-        pseudoRandomNumber = 5
+        pseudoRandomNumber = 7
         Dim rotors() As String = {
         "BDFHJLCPRTXVZNYEIWGAKMUSQO",
         "AJDKSIRUXBLHWTMCQGZNPYFVOE",
@@ -24,7 +24,8 @@ Module Module1
 
         Dim message As String
         'message = Console.ReadLine()
-        message = "XPCXAUPHYQALKJMGKRWPGYHFTKRFFFNOUTZCABUAEHQLGXREZ"
+        message = "WEATHERREPORTWINDYTODAY"
+        '"XPCXAUPHYQALKJMGKRWPGYHFTKRFFFNOUTZCABUAEHQLGXREZ"
         '"ALWAURKQEQQWLRAWZHUYKVN"
         '"WEATHERREPORTWINDYTODAY"
         Console.WriteLine("Original message is = " & message)
