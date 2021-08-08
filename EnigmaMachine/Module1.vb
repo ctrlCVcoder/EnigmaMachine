@@ -24,7 +24,7 @@ Module Module1
 
         Dim message As String
         'message = Console.ReadLine()
-        message = "WEATHERREPORTWINDYTODAY"
+        message = "ALWAURKQEQQWLRAWZHUYKVN"
         '"XPCXAUPHYQALKJMGKRWPGYHFTKRFFFNOUTZCABUAEHQLGXREZ"
         '"ALWAURKQEQQWLRAWZHUYKVN"
         '"WEATHERREPORTWINDYTODAY"
